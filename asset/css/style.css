@@ -625,6 +625,7 @@ img{
 	margin: 50px auto;
 	margin:5rem auto;
 	display: block;
+	text-align:center;
 }
 .project-single-item:hover .project-img-overly{
 	top: 0;
