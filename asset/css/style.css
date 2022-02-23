@@ -54,7 +54,6 @@ img{
 	display: block;
 }
 .btn1{
-	padding: 15px 30px;
 	padding: 1.5rem 3rem;
 	color: var(--lightColor);
 	text-transform: uppercase;
@@ -69,6 +68,7 @@ img{
 	border-bottom: 5px solid #736357;
 	border-bottom: .5rem solid #736357;
 	display: inline-block;
+	text-align:center;
 	-webkit-transition: all .3s ease-in;
 	transition: all .3s ease-in;
 }
